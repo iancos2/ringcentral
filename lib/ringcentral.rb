@@ -2,7 +2,7 @@ require 'rest_client'
 
 module RingCentral
   
-  URL = 'https://service.ringcentral.com'
+  URL = 'https://platform.devtest.ringcentral.com'
   
   class Fax
     
